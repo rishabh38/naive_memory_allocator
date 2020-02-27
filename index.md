@@ -1,0 +1,1 @@
+naive algorithm for implementing dynamic memory allocator, built to try out different testing techniques for the allocator.
